@@ -9,3 +9,4 @@ Oyunun ana teması labirent olacak. Oyuncu labirente 0 puan olarak başlayacak. 
 a) Dikkat: Oyuncu labirentin içinde çıkışı ararken yanlış yollardan gitmesi halinde zaman sorunu yaşayacak.
 b) Hafıza: Labirentin karışık düzeni içinde kişinin hafıza yeteneği ölçülecek ve belirli bir süre içinde oyun tamamlanmaz ise oyun bitecek. Bu durumda hafızası iyi olmayan ve yanlış yollardan giden oyuncular zaman sorunu da yaşayacak.
 c) Hesap: Oyunu oynayan kişiden 4 işlem ile verilen sayıyı ve gerekli şekilleri toplaması isteniyor. 
+https://youtu.be/BbJV_l87dKo oyunun tanıtım videosu
