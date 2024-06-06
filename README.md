@@ -9,14 +9,13 @@ Maze Runner, oyuncuların dikkat, hesaplama ve hafıza yeteneklerini ölçmeyi a
 -YETENEK ÖLÇÜMÜ-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Dikkat:
+a-Dikkat:
 Oyuncu, labirent içinde çıkışı ararken yanlış yollara saparsa zaman kaybedecek. Bu, oyuncunun dikkat seviyesini test edecek bir unsurdur. Aynı zamanda duvarlara dokunan oyuncu yanmış olacak ve baştan başlayacak
 
-Hafıza:
+b-Hafıza:
 Labirentin karmaşık düzeni içinde oyuncunun hafızası test edilecek. Belirli bir süre içinde oyunu tamamlayamayan oyuncular elenecek. Yanlış yollara sapan ve hafızası zayıf olan oyuncular, bu süreçte zaman kaybedecekler ve baştan başlamak zorunda kalacaklar.
 
-Hesap:
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+c-Hesap:
 Oyun, oyunculardan dört işlem yeteneklerini kullanmalarını isteyecek. Bu yetenek, oyuncunun oyunu başarıyla tamamlamasında önemli bir rol oynayacak.  Oyunda her işlem rastgele gelecek.
 
 Maze Runner, bu özellikleriyle oyuncuların dikkatini, hafızasını ve hesaplama becerilerini geliştirmeyi amaçlayan bir deneyim sunuyor.
@@ -26,6 +25,7 @@ Maze Runner, bu özellikleriyle oyuncuların dikkatini, hafızasını ve hesapla
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -OYNANIŞ-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Oyun WASD tuşları ile basit bir şekilde oynanabilir. Ayrıca oyuncu istediği şekilde LSHIFT tuşu ile koşabilir,LCTRL tuşu ile eğilebilir. Amacımız labirentten en kısa sürede çıkmak.
 
 
@@ -39,3 +39,9 @@ Oyun WASD tuşları ile basit bir şekilde oynanabilir. Ayrıca oyuncu istediği
 
 3-)Çıkışa ulaştığımızda bu şekilde 2 seçenek önümüze geliyor ve oyun bitmiş oluyor.
 ![Ekran görüntüsü 2024-06-06 170916](https://github.com/denisilhan/maze_runner/assets/112807487/aa4827f7-6d23-4d34-bfe9-09519eb9b215)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Okuduğunuz için teşekkürler.
